@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "322635851534",
+    "project_id": "waste-calculator-ecada",
+    "storage_bucket": "waste-calculator-ecada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322635851534:android:ca828b2ec9cb7d8378595f",
+        "android_client_info": {
+          "package_name": "com.example.waste_calculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV-FRp7LzfIP82wGmkb1IlDWL6e8LlS3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
